@@ -5,6 +5,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/PetterKraus)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/petterKraus)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/petterkg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petterkraus@gmail.com?Subject=Contact%20from%20GitHub)
+
+
 
 ![Petter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petterkraus&show_icons=true&theme=dracula)
 
