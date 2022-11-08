@@ -33,7 +33,7 @@
 Working hard to solve problems trough coding!
 <br />
  
-## How to reach me:
+##How to reach me:
 
 <a href='mailto:petterkraus@gmail.com?Subject=Contact%20from%20GitHub'>Send me an e-mail!</a>
 
