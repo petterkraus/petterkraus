@@ -29,11 +29,11 @@
     <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='tailwind'>
 </div>
 <br/>
-##
+
 Working hard to solve problems trough coding!
 <br />
  
-##How to reach me:
+## How to reach me:
 
 <a href='mailto:petterkraus@gmail.com?Subject=Contact%20from%20GitHub'>Send me an e-mail!</a>
 
