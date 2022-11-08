@@ -7,6 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/petterkg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petterkraus@gmail.com?Subject=Contact%20from%20GitHub)
 
+<br />
 <div align="left">
   <a href="https://github.com/irvinctba">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=petterkraus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
